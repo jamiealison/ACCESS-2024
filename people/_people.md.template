@@ -1,0 +1,19 @@
+---
+title: {name}
+summary: {institution}, {role_string}
+# Optional external URL for project (replaces project detail page).
+external_link: ''
+
+links: {social_links}
+
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
+
+tags: {tags}
+
+---
+
+
+{bio}

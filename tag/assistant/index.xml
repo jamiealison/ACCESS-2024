@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>assistant | ACCESS-2024</title>
+    <link>https://darsa.info/ACCESS-2024/tag/assistant/</link>
+      <atom:link href="https://darsa.info/ACCESS-2024/tag/assistant/index.xml" rel="self" type="application/rss+xml" />
+    <description>assistant</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://darsa.info/ACCESS-2024/media/icon_hu2370e8fd8da1b2d6ed75140c480413ad_90704_512x512_fill_lanczos_center_3.png</url>
+      <title>assistant</title>
+      <link>https://darsa.info/ACCESS-2024/tag/assistant/</link>
+    </image>
+    
+    <item>
+      <title>Melika Baghooee</title>
+      <link>https://darsa.info/ACCESS-2024/people/auto-mbaghooee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/ACCESS-2024/people/auto-mbaghooee/</guid>
+      <description>&lt;p&gt;Melika is a Ph.D. student at QGG (Aarhus University). She holds a background in Biosystems Engineering and is interested in developing tools to enhance agricultural systems and drive a digital green transition that could make agriculture more sustainable, resilient, and productive. Her Ph.D. project aims to develop novel algorithms and annotation tools for hierarchical classification, which have profound and immediate applications to agriculture and ecology.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
